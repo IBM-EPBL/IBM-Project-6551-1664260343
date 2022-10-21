@@ -1,0 +1,51 @@
+.white
+{
+    color: rgb(118, 96, 96);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 100px;
+}
+
+.padhu-container
+{
+    padding: 50px;
+    border-style: none;
+    background-color: rgb(29, 97, 157);
+    box-shadow: 2px 2px 35px rgb(159, 108, 108);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    margin-bottom: auto;
+    border-radius: 50px 50px;
+    width: fit-content;
+    color: rgb(0, 0, 0);
+    height: fit-content;
+    
+}
+.center
+{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+
+
+.table
+{
+
+    padding: 50px;
+    border-style: none;
+    background-color: rgb(29, 97, 157);
+    box-shadow: 2px 2px 35px rgb(159, 108, 108);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    margin-bottom: auto;
+    border-radius: 50px 50px;
+    width: fit-content;
+    color: rgb(0, 0, 0);
+    height: fit-content;
+}
