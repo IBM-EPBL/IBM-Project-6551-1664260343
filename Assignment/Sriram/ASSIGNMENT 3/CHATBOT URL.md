@@ -1,0 +1,1 @@
+Chat Bot Web url:https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fau-syd.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-da603b13-28a5-443d-b41f-b119f0fa414e%3A%3Ad1e6fffb-51a1-427b-8232-5031b3513ee6&integrationID=85112eda-ff78-4038-ab5a-e8d9ef78bc95&region=au-syd&serviceInstanceID=da603b13-28a5-443d-b41f-b119f0fa414e
