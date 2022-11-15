@@ -1,13 +1,13 @@
 
-## BATCH - B1-1M3E
+## BATCH - B2-2M4E
 
 <hr>
 
 ## TEAM MEMBERS 🧑‍🤝‍🧑
-> TEAM LEAD - RAJKIRAN S S <br>
-> M1_LEAD   - KAMALESUWARAN-D <br>
-> M2_LEAD   - SRIGOVINDH <br>
-> M3_LEAD   - GURURAJAN <br>
+> TEAM LEAD - SRIRAM SELVAKUMAR S <br>
+> M1_LEAD   - SIVA ANANDAVEL G <br>
+> M2_LEAD   - AAKARSH SU <br>
+> M3_LEAD   - SURAJ RAM S <br>
 
 <hr>
 
